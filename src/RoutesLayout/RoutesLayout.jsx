@@ -14,6 +14,7 @@ function RoutesLayout() {
     <Header/>
     <Routes>
         <Route path='/' element={<Home/>}/>
+        <Route path='/FoodVio_Restaurant' element={<Home/>}/>
         <Route path='/dishes' element={<Dishes/>}/>
         <Route path='/Services' element={<Booking/>}/>
         <Route path='/partners' element={<Partner/>}/>
