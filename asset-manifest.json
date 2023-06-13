@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FoodVio_Restaurant/static/css/main.a0108a43.css",
+    "main.js": "/FoodVio_Restaurant/static/js/main.a634a182.js",
+    "static/media/welcome.png": "/FoodVio_Restaurant/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/FoodVio_Restaurant/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/Food1.jpg": "/FoodVio_Restaurant/static/media/Food1.f3072f11102878ef9b75.jpg",
+    "static/media/Food2.jpg": "/FoodVio_Restaurant/static/media/Food2.5e76d1030d726ab5f598.jpg",
+    "static/media/logos.png": "/FoodVio_Restaurant/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/FoodC.png": "/FoodVio_Restaurant/static/media/FoodC.8c68ad475f3555fddb66.png",
+    "static/media/DeliveryImg.png": "/FoodVio_Restaurant/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
+    "index.html": "/FoodVio_Restaurant/index.html",
+    "main.a0108a43.css.map": "/FoodVio_Restaurant/static/css/main.a0108a43.css.map",
+    "main.a634a182.js.map": "/FoodVio_Restaurant/static/js/main.a634a182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0108a43.css",
+    "static/js/main.a634a182.js"
+  ]
+}
